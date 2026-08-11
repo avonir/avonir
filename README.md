@@ -8,7 +8,7 @@
 <h3 align="left">Minhas Redes Sociais</h3>
 <p align="left">
 <a href="https://instagram.com/avonir.gb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avonir.gb" height="30" width="40" /></a>
-<a href="https://discord.gg/avonir.gb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="avonir.gb" height="30" width="40" /></a>
+<a href="https://discord.gg/Uk32FnZy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="avonir.gb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagem que estou aprendendo :):</h3>
