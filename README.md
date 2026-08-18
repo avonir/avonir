@@ -32,7 +32,7 @@
       </p>
     </td>
     <td width="40%" valign="middle" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=avonir&theme=dark" alt="avonir" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=avonir&background=0D1117&border=87CEFA&ring=87CEFA&fire=87CEFA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=87CEFA&sideLabels=87CEFA&dates=9F9F9F" alt="avonir" width="100%" />
     </td>
   </tr>
 </table>
@@ -50,8 +50,5 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmk4cTZicGNlNWZiZ2dyNjF0N28wb3pzaHBhYTZqa2JybmYzOHlsOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LHlqmesz41JyzbAX8s/giphy.gif" height="180" />
 </p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avonir&theme=dark" alt="avonir" /></p>
 
 
