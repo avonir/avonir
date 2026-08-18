@@ -32,5 +32,5 @@
 <hr>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmk4cTZicGNlNWZiZ2dyNjF0N28wb3pzaHBhYTZqa2JybmYzOHlsOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LHlqmesz41JyzbAX8s/giphy.gif" height="220" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmk4cTZicGNlNWZiZ2dyNjF0N28wb3pzaHBhYTZqa2JybmYzOHlsOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LHlqmesz41JyzbAX8s/giphy.gif" height="180" />
 </p>
