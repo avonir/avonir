@@ -1,5 +1,5 @@
 
-<img src="https://i.pinimg.com/1200x/de/77/41/de77415c83c8873453a17eaac02087dc.jpg" height="500" />
+<img src="https://i.pinimg.com/1200x/54/ef/3f/54ef3f763cf2269b2cd1312cd298910c.jpg" height="300" />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=87CEFA&center=true&vCenter=true&width=500&lines=Hello%2C+My+Name+Is+Avonir+%3A%29" alt="Typing SVG" />
