@@ -3,6 +3,8 @@
   <img src="https://i.pinimg.com/1200x/4e/24/50/4e2450ca334165339faf6972c13135fb.jpg" width="100%" />
 </p>
 
+<br><br>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=87CEFA&center=true&vCenter=true&width=500&lines=Hello%2C+My+Name+Is+Avonir+%3A%29" alt="Typing SVG" />
 </h1>
