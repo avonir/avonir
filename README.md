@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=87CEFA&center=true&vCenter=true&width=500&lines=Hello%2C+My+Name+Is+Avonir+%3A%29" alt="Typing SVG" />
 </h1>
 
-<h3 align="left">I am a Computer Science student and a developer who is constantly learning. I enjoy turning ideas into projects, solving problems through programming, and exploring new technologies. Currently, I am honing my skills in web development, programming logic, and software development, always striving to learn through hands-on experience and grow as a developer.</h3>
+<h4 align="left">I am a Computer Science student and a developer who is constantly learning. I enjoy turning ideas into projects, solving problems through programming, and exploring new technologies. Currently, I am honing my skills in web development, programming logic, and software development, always striving to learn through hands-on experience and grow as a developer.</h4>
 
 
 <h3 align="left">Minhas Redes Sociais</h3>
