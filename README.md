@@ -26,5 +26,5 @@
 <a href="https://discord.gg/Uk32FnZy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="avonir.gb" height="30" width="40" /></a>
 </p>
 
-<img src="http://usagif.com/wp-content/uploads/gify/one-piece-anime-usagif-animation-6.gif)" height="300" />
+<img src="https://tenor.com/rqis0ED6sXs.gif" height="300" />
 
