@@ -13,7 +13,7 @@
       <h4 align="left">I am a Computer Science student and a developer who is constantly learning. I enjoy turning ideas into projects, solving problems through programming, and exploring new technologies. Currently, I am honing my skills in web development, programming logic, and software development, always striving to learn through hands-on experience and grow as a developer.</h4>
     </td>
     <td width="40%">
-      <img src="https://i.pinimg.com/1200x/8f/16/a5/8f16a569d1a35a7c28c880db4303e355.jpg" width="100%" />
+      <img src="https://i.pinimg.com/736x/6b/ac/0e/6bac0e936a9dac8d5fac3d8853832469.jpg" width="100%" />
     </td>
   </tr>
 </table>
