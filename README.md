@@ -26,5 +26,5 @@
 <a href="https://discord.gg/Uk32FnZy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="avonir.gb" height="30" width="40" /></a>
 </p>
 
-<img src="https://tenor.com/pt-BR/view/luffy-bounce-luffy-bounce-one-piece-gif-14486495695948235896" height="300" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExampwZ3JkaHZwamkzZTBxYm1zbDV2MXV4bXdzYzFjemx6eHZ5Ym9xbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hgsPEyU4B3wZ8nffCi/giphy.gif" height="300" />
 
