@@ -30,13 +30,7 @@
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
         <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
       </p>
-    </td>
-    <td width="40%" valign="middle" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=avonir&background=0D1117&border=87CEFA&ring=87CEFA&fire=87CEFA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=87CEFA&sideLabels=87CEFA&dates=9F9F9F" alt="avonir" width="100%" />
-    </td>
-  </tr>
-</table>
-
+   
 
 
 <h3 align="center">Connect with me</h3>
@@ -51,6 +45,3 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmk4cTZicGNlNWZiZ2dyNjF0N28wb3pzaHBhYTZqa2JybmYzOHlsOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LHlqmesz41JyzbAX8s/giphy.gif" height="180" />
 </p>
 
-<td width="40%" valign="middle" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avonir&background=0D1117&border=87CEFA&ring=87CEFA&fire=87CEFA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=87CEFA&sideLabels=87CEFA&dates=9F9F9F" alt="avonir" width="100%" />
-</td>
