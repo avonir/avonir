@@ -25,3 +25,6 @@
 <a href="https://instagram.com/avonir.gb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avonir.gb" height="30" width="40" /></a>
 <a href="https://discord.gg/Uk32FnZy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="avonir.gb" height="30" width="40" /></a>
 </p>
+
+<img src[="https://usagif.com/wp-content/uploads/gify/one-piece-anime-usagif-animation-6.gif](https://tenor.com/pt-BR/view/luffy-bounce-luffy-bounce-one-piece-gif-14486495695948235896)" height="300" />
+
