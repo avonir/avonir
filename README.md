@@ -6,7 +6,9 @@
 </h1>
 
 <h4 align="left">I am a Computer Science student and a developer who is constantly learning. I enjoy turning ideas into projects, solving problems through programming, and exploring new technologies. Currently, I am honing my skills in web development, programming logic, and software development, always striving to learn through hands-on experience and grow as a developer.</h4>
-<hr>
+<hr> <img src="<img width="1199" height="666" alt="image" src="https://github.com/user-attachments/assets/b891d059-9815-44cb-b76f-45a57b841e4b" />
+" height="300" />
+
 
 <h3 align="center">My languages ​​and applications</h3>
 <p align="center"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
